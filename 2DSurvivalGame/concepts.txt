@@ -1,0 +1,8 @@
+Game Idea:
+
+- Game where player is a part of military and is dropped into the city to rescue civilians and rid the city of infected
+
+- Stealth/Action game where player can choose to hide (stealth) or fight (action) his way throughout the city
+
+- Choose load out before each mission
+
